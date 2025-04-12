@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achiv-Gupta
-- 👀 I’m interested in competitive coding.
+- 👀 I’m interested in competitive coding, MERN Stack && finance.
 - 🌱 I’m currently learning and experting data structures and algorithms from many resources.
-- 💞️ I’m looking to collaborate on INOI prep.
+- 💞️ I’m looking to collaborate on ACM ICPC prep.
 - 📫 How to reach me at my mail.
 
 <!---
